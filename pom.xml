@@ -5,15 +5,15 @@
 
     <groupId>in.neuw</groupId>
     <artifactId>spring-boot-tls-starter</artifactId>
-    <version>3.0.5-1</version>
+    <version>2.7.10-1</version>
     <name>spring-boot-tls-starter</name>
     <description>spring-boot-tls-starter</description>
     <properties>
         <java.version>17</java.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <spring.boot.version>3.0.5</spring.boot.version>
-        <spring.version>6.0.7</spring.version>
+        <spring.boot.version>2.7.10</spring.boot.version>
+        <spring.version>5.3.26</spring.version>
         <http.client.version>5.2.1</http.client.version>
         <reactor.netty.version>1.1.5</reactor.netty.version>
     </properties>
